@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYWnd9+hBzZnbMQs5dKX6F0+xuc/bEnE5c6m4voOonifPL5py/FKb+nRr7yP1Z86JzA+b9zajl3AwINVAGN4hQ==",
+  "success": true,
+  "projectFilePath": "/home/pgarcia/code/fsharp/DapperExample/DapperExample.fsproj",
+  "expectedPackageFiles": [
+    "/home/pgarcia/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
